@@ -1,6 +1,6 @@
-//comparativos de igualdade (= atribuição), (== valores), (=== valor e igualdade) 
+//dois comparativos  
 
 let a = 10;
 const b = "10";
 
-console.log(a === b);
+console.log(a == b && typeof a == "string");
