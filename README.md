@@ -1,2 +1,2 @@
-# cursoJavaScript
- JavaScript Curso Completo Hcodebr - Udemy
+# Curso de JavaScript - Estudos
+Curso Completo Hcode - Udemy
